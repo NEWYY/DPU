@@ -3,7 +3,7 @@
 ### SDK Manager下载
 > 官网下载链接https://developer.nvidia.com/nvidia-sdk-manager
 
-1. 利用dkpg安装deb包。如果遇到以来问题，可以执行sudo apt --fix-broken install解决
+1. 利用dkpg安装deb包。如果遇到依赖问题，可以执行sudo apt --fix-broken install解决
 2. 打开sdkmanager软件
 ![sdk_manager](./img/doca_sdkm.jpg)
 > 第一行可能会出现其他选项，要选择DOCA
